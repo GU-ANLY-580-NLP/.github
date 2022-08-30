@@ -5,8 +5,8 @@
 - Trevor Adriaanse
 
 ### Teaching Assistants
-- Jingson Gao
-- Erocong Lou
+- Jingsong Gao
+- Ercong Luo
 - Linpei Zhang
 - Chao Li
 - Changwen Li
