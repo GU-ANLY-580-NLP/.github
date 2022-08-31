@@ -35,7 +35,7 @@ This course assumes basic knowledge of Python. It is also helpful to have experi
 
 ## Course Website
 
-This course will primarily be conducted through Canvas, while all coding assignments and labs will be submitted through Github Classroom. This course also has a Discord server that will be used for common to all three sections. **Please join our [Discord](https://discord.gg/RczqzHTz) server at your earliest convenience.**
+This course will primarily be conducted through Canvas, while all coding assignments and labs will be submitted through Github Classroom. This course also has a Discord server that will be used for common to all three sections. **Please join our [Discord](https://discord.gg/RBxVpTmmXf) server at your earliest convenience.**
 
 ## Github
 Students need to have a [Github account](https://github.com/join) to complete this course. **In order for the teaching staff to associate your Georgetown Account with your Github account, please enter your name, GU email, and Github handle in this table [table](https://docs.google.com/spreadsheets/d/1KT4qfeVM592Tq81bkqnRZD2jMTRRZKW79bnZpPpUdy0/edit#gid=0).**
