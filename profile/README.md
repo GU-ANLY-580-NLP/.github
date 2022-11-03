@@ -108,7 +108,7 @@ The course grade is broken down in the table below. The course grade consists of
 | Nov 15 <br> [Lab 10]() due | Nov 15 <br> [Lab 10]() due | Nov 15 <br> [Lab 10]() due | **11:59pm EST** |
 | Nov 16 <br> [Lecture 13]() <br> [Lab 13]() in-class | Nov 17 <br> [Lecture 13]() <br> [Lab 13]() in-class  | Nov 28 <br> [Lecture 13]() <br> [Lab 13]() in-class | **NLP Systems** <br> - Recommender systems <br> - Chatbots <br> - System design <br> - Model serving <br> - Feature storage <br> - Containerization & Kubernetes <br> **Lab** <br> - Deploy a model-as-a-service in a k8s cluster | <br> [<a href="https://web.stanford.edu/~jurafsky/slp3/ed3book_dec302020.pdf">Jurafsky & Martin, Chp 24</a>] <br> [<a href="https://arxiv.org/pdf/1712.05181.pdf">Bocklisch et al., 2017</a>] |
 | Nov 21 <br> [Assignment 03]() due | Nov 21 <br> [Assignment 03]() due | Nov 21 <br> [Assignment 03]() due  | **11:59pm EST** |
-| Nov 30 <br> [Final Presentations]() | Dec 01 <br> [Final Presentations]() | Dec 05 <br> [Final Presentations]() | [Schedule & signup sheet]() | |
+| Nov 30 <br> Final Presentations | Dec 01 <br> Final Presentations | Dec 05 <br> Final Presentations | [Schedule & signup sheet]() | |
 
 
 #
